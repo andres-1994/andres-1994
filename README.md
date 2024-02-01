@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andres-1994&label=Profile%20views&color=0e75b6&style=flat" alt="andres" /> </p>
 
-![GitHub followers](https://img.shields.io/github/followers/andres-1994?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/andres-1994?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=andres-1994.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![GitHub followers](https://img.shields.io/github/followers/andres-1994?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/andres-1994?style=social) />
 
 ## Acerca de mi :
 
