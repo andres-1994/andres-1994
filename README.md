@@ -8,8 +8,8 @@
 ## Acerca de mi :
 
 - 🏢 Trabaje en empresas como Teisa y Tigo como **Analista de Datos y Soporte Tecnico TI** 
-- 🏢 Estudie **Ingenieria en Informatica** en la [Universidad Nordeste del Paraguay](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🏢 Estudie **Ingenieria en Informatica** en la [Universidad Nordeste del Paraguay](https://www.undp.edu.py/)
+- 🎓 Estudie programacion web en el instituto SNPP [SNPP Paraguay](https://www.snpp.edu.py/)
 - 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Vivo en **Asuncion Paraguay**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
